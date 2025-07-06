@@ -1,0 +1,4 @@
+aiosqlite==0.21.0
+sqlalchemy==2.0.41
+aiogram==3.21.0
+loguru==0.7.3
